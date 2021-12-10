@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Profile Card])
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hdrabi)]
 <!--
 **chaosreaper/chaosreaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
