@@ -1,8 +1,8 @@
 ### My Profile Card 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hdrabi)](https://github.com/chaosreaper)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hdrabi)](https://github.com/drabi-he)
 <!--
-**chaosreaper/chaosreaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drabi-he/drabi-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
